@@ -39,7 +39,7 @@
   
 ---
   
-[![sakurabakouri-source's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakurabakouri-source&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurabakouri-source&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![sakurabakouri-source's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakurabakouri-source&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurabakouri-source&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
